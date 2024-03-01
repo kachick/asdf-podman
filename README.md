@@ -1,17 +1,13 @@
-<div align="center">
-
-# asdf-podman [![Build](https://github.com/tvon/asdf-podman/actions/workflows/build.yml/badge.svg)](https://github.com/tvon/asdf-podman/actions/workflows/build.yml) [![Lint](https://github.com/tvon/asdf-podman/actions/workflows/lint.yml/badge.svg)](https://github.com/tvon/asdf-podman/actions/workflows/lint.yml)
-
+# asdf-podman [![Build](https://github.com/kachick/asdf-podman/actions/workflows/build.yml/badge.svg)](https://github.com/kachick/asdf-podman/actions/workflows/build.yml) [![Lint](https://github.com/kachick/asdf-podman/actions/workflows/lint.yml/badge.svg)](https://github.com/kachick/asdf-podman/actions/workflows/lint.yml)
 
 [podman](https://docs.podman.io/en/latest/) plugin for the [asdf version manager](https://asdf-vm.com).
 
-</div>
-
 # Contents
 
+- [asdf-podman  ](#asdf-podman--)
+- [Contents](#contents)
 - [Dependencies](#dependencies)
 - [Install](#install)
-- [Why?](#why)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,7 +22,7 @@ Plugin:
 ```shell
 asdf plugin add podman
 # or
-asdf plugin add podman https://github.com/tvon/asdf-podman.git
+asdf plugin add podman https://github.com/kachick/asdf-podman.git
 ```
 
 podman:
@@ -52,8 +48,10 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/tvon/asdf-podman/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/kachick/asdf-podman/graphs/contributors)!
 
 # License
+
+I have temporarily forked this unofficial asdf plugin for my use. Thanks to the @tvon.
 
 See [LICENSE](LICENSE) © [Tom von Schwerdtner](https://github.com/tvon/)
