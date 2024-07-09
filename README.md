@@ -1,3 +1,5 @@
+This repository is unused and archived since https://github.com/kachick/dotfiles/pull/653
+
 # asdf-podman [![Build](https://github.com/kachick/asdf-podman/actions/workflows/build.yml/badge.svg)](https://github.com/kachick/asdf-podman/actions/workflows/build.yml) [![Lint](https://github.com/kachick/asdf-podman/actions/workflows/lint.yml/badge.svg)](https://github.com/kachick/asdf-podman/actions/workflows/lint.yml)
 
 [podman](https://docs.podman.io/en/latest/) plugin for the [asdf version manager](https://asdf-vm.com).
